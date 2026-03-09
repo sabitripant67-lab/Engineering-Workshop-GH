@@ -1,0 +1,24 @@
+-Git hub
+-web basis
+-static site-source/version control
+	- change what,who,when
+	- Svn,TFS, Git
+-Git
+	-installation
+	-use cmd or terminal or power shell  or git bash to execute git commands
+	-git init - we initialize a folder as a git repository
+	-git config -who part
+		-git config user.email
+		-git config user.name
+	-any change (file add,delete,text content change)in that folder (git repo)
+		-git add--all : staging changes for commit
+		-git commit -m "short which describes the changes"
+-Classwork :-
+		-Add files Fwu.txt,Fwu.png to the repo
+		-Commit both files individually
+                - In same repo , add new folder "My C Lab",and all C programs that you have so far in this folder
+
+
+-Git hubg
+-web basis
+-static site
